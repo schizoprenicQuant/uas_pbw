@@ -68,7 +68,10 @@ include "koneksi.php"
               <a class="nav-link" href="#article">Article</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="gallery.php">Gallery</a>
+              <a class="nav-link" href="#gallery">Gallery</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#schedule">Schedule</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="login.php" target="_blank">Login</a>
@@ -192,7 +195,7 @@ include "koneksi.php"
       </div>
     </section>
     <!-- GALLERY END -->
-     <section id="schedule" class="text-center p-5">
+    <section id="schedule" class="text-center p-5">
     <div class="container">
       <h1 class="fw-bold display-4 pb-3">schedule</h1>
       <div class="row row-cols-1 row-cols-md-4 g-4 justify-content-center">
@@ -201,10 +204,10 @@ include "koneksi.php"
             <div class="card-header bg-danger text-white">SENIN</div>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">
-                Etika Profesi<br>16.20-18.00 | H.4.4
+                Sistem Operasi<br>12.30-15.00 | H.5.8
               </li>
               <li class="list-group-item">
-                Sistem Operasi<br>18.30-21.00 | H.4.8
+                PKN<br>18.30-20.10 | Kulino
               </li>
             </ul>
           </div>
@@ -214,13 +217,10 @@ include "koneksi.php"
             <div class="card-header bg-danger text-white">SELASA</div>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">
-                Pendidikan Kewarganegaraan<br>12.30-13.10 | Kulino
+                Basis Data<br>14.10-15.50 | D.2.
               </li>
               <li class="list-group-item">
-                Probabilitas dan Statistik<br>15.30-18.00 | H.4.9
-              </li>
-              <li class="list-group-item">
-                Kecerdasan Buatan<br>18.30-21.00 | H.4.11
+                Technopreneurship<br>8.40-10.00 | H.5.2
               </li>
             </ul>
           </div>
@@ -230,7 +230,10 @@ include "koneksi.php"
             <div class="card-header bg-danger text-white">RABU</div>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">
-                Manajemen Proyek Teknologi Informasi<br>15.30-18.00 | H.4.6
+                Pemrograman Berbasis Web<br>14.10-15.50 | D.2.J
+              </li>
+              <li class="list-group-item">
+                Bahasa Inggris<br>16.20-18.00 | Kulino
               </li>
             </ul>
           </div>
@@ -240,13 +243,10 @@ include "koneksi.php"
             <div class="card-header bg-danger text-white">KAMIS</div>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">
-                Bahasa Indonesia<br>12.30-14.10 | Kulino
+                Basis Data<br>16.20-18.00 | H.5.4
               </li>
               <li class="list-group-item">
-                Pendidikan Agama Islam<br>16.20-18.00 | Kulino
-              </li>
-              <li class="list-group-item">
-                Penambangan Data<br>18.30-21.00 | H.4.9
+                Probabilitas dan Statistik<br>09.30-12.00 | H.3.8
               </li>
             </ul>
           </div>
@@ -256,7 +256,7 @@ include "koneksi.php"
             <div class="card-header bg-danger text-white">JUMAT</div>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">
-                Pemrograman Web Lanjut<br>10.20-12.00 | D.2.K
+                RPL <BR>07.00-09.30 | H.4.9
               </li>
             </ul>
           </div>
