@@ -26,7 +26,6 @@
                     </tr>
                 </thead>
                 <tbody id="result">
-
                 </tbody>
             </table>
         </div>
